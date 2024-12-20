@@ -117,4 +117,3 @@ You can adjust the computer player's difficulty using the dropdown menu:
 
 ## Contributors
 
-This project was developed as part of the CS 351: Design of Large Programs course.
