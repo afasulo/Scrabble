@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scorechecker1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scrabble/out/production/scrabble/scrabble/scorechecker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
